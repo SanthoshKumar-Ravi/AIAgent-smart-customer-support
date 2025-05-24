@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+openai
+tiktoken
+faiss-cpu
+python-dotenv
+langchain-community
+streamlit
+redis
+requests
